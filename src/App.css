@@ -1,0 +1,77 @@
+body {
+  background-color: #f0ebe2;
+  color: #ffffff;
+  margin: 50px;
+}
+
+.App {
+  position: relative;
+  left: 35%;
+}
+
+.dLZEFC {
+  height: 110px !important;
+  padding: 14px !important;
+  background-color: #1b262d !important;
+  margin: 5px;
+  width: 32% !important;
+}
+
+.eSNVnk {
+  font-size: 48px;
+  position: relative !important;
+  top: 22% !important;
+}
+
+.dMOElR {
+  gap: 20px !important;
+  display: flex !important;
+  top: 15px !important;
+  position: relative !important;
+}
+
+.jXSTTG > h4 {
+  text-align: left !important;
+  top: 34px !important;
+  position: relative !important;
+  /* margin-left: -180px !important; */
+}
+
+.dMOElR > span.green {
+  color: green;
+  display: flex !important;
+  position: relative !important;
+  top: -10px !important;
+}
+
+.dMOElR > span.red {
+  color: red;
+  top: 3px !important;
+  position: relative !important;
+}
+
+.high {
+  margin-left: 164px !important;
+  margin-top: -75px;
+}
+
+.btc_usd {
+  position: relative;
+  left: 165px !important;
+  top: 12px;
+}
+
+.eSNVnk {
+  font-size: 62px !important;
+  margin-top: -1% !important;
+}
+
+.low {
+  position: relative !important;
+  top: 0px !important;
+}
+
+.ticker_container {
+  position: relative;
+  top: -8px;
+}
